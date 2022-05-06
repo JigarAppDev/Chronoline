@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$USER_HOME$/Development /flutter 2.5.3/.pub-cache/hosted/pub.dartlang.org/connectivity_plus-2.2.0/android" />
+            <option value="$USER_HOME$/Development /flutter 2.5.3/.pub-cache/hosted/pub.dartlang.org/device_info_plus-3.2.2/android" />
+            <option value="$USER_HOME$/Development /flutter 2.5.3/.pub-cache/hosted/pub.dartlang.org/firebase_auth-3.3.7/android" />
+            <option value="$USER_HOME$/Development /flutter 2.5.3/.pub-cache/hosted/pub.dartlang.org/firebase_core-1.12.0/android" />
+            <option value="$USER_HOME$/Development /flutter 2.5.3/.pub-cache/hosted/pub.dartlang.org/flutter_facebook_auth-3.5.7/android" />
+            <option value="$USER_HOME$/Development /flutter 2.5.3/.pub-cache/hosted/pub.dartlang.org/flutter_inapp_purchase-5.1.2/android" />
+            <option value="$USER_HOME$/Development /flutter 2.5.3/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-2.0.5/android" />
+            <option value="$USER_HOME$/Development /flutter 2.5.3/.pub-cache/hosted/pub.dartlang.org/fluttertoast-8.0.8/android" />
+            <option value="$USER_HOME$/Development /flutter 2.5.3/.pub-cache/hosted/pub.dartlang.org/google_mobile_ads-1.1.0/android" />
+            <option value="$USER_HOME$/Development /flutter 2.5.3/.pub-cache/hosted/pub.dartlang.org/google_sign_in-5.2.4/android" />
+            <option value="$USER_HOME$/Development /flutter 2.5.3/.pub-cache/hosted/pub.dartlang.org/image_picker-0.8.4+9/android" />
+            <option value="$USER_HOME$/Development /flutter 2.5.3/.pub-cache/hosted/pub.dartlang.org/images_picker-1.2.10/android" />
+            <option value="$USER_HOME$/Development /flutter 2.5.3/.pub-cache/hosted/pub.dartlang.org/modal_progress_hud_nsn-0.1.0-nullsafety-1/android" />
+            <option value="$USER_HOME$/Development /flutter 2.5.3/.pub-cache/hosted/pub.dartlang.org/path_provider_android-2.0.11/android" />
+            <option value="$USER_HOME$/Development /flutter 2.5.3/.pub-cache/hosted/pub.dartlang.org/shared_preferences_android-2.0.10/android" />
+            <option value="$USER_HOME$/Development /flutter 2.5.3/.pub-cache/hosted/pub.dartlang.org/sign_in_with_apple-3.3.0/android" />
+            <option value="$USER_HOME$/Development /flutter 2.5.3/.pub-cache/hosted/pub.dartlang.org/sqflite-2.0.2/android" />
+            <option value="$USER_HOME$/Development /flutter 2.5.3/.pub-cache/hosted/pub.dartlang.org/url_launcher_android-6.0.14/android" />
+            <option value="$USER_HOME$/Development /flutter 2.5.3/.pub-cache/hosted/pub.dartlang.org/video_player-2.2.17/android" />
+            <option value="$USER_HOME$/Development /flutter 2.5.3/.pub-cache/hosted/pub.dartlang.org/video_thumbnail-0.4.3/android" />
+            <option value="$USER_HOME$/Development /flutter 2.5.3/.pub-cache/hosted/pub.dartlang.org/wakelock-0.5.6/android" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

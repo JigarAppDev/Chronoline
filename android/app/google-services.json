@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "484694724233",
+    "project_id": "chronoline-7b6e1",
+    "storage_bucket": "chronoline-7b6e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484694724233:android:b79dea3dfe7280ae63c058",
+        "android_client_info": {
+          "package_name": "com.chronoline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484694724233-dv6b7kcugajsmbnjn1tf3kdql1kbjrid.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chronoline",
+            "certificate_hash": "7222c8192adb13b23e564a26bb922df164b483ab"
+          }
+        },
+        {
+          "client_id": "484694724233-mqc1fkmjlggubdm4ft541n4cdf6vcskg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARImPSt49LzJYsv1hy0JSz0nDH1RUpuK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484694724233-mqc1fkmjlggubdm4ft541n4cdf6vcskg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

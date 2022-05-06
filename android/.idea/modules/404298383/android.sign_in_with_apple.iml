@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":sign_in_with_apple" external.linked.project.path="$USER_HOME$/Development /flutter 2.5.3/.pub-cache/hosted/pub.dartlang.org/sign_in_with_apple-3.3.0/android" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="com.aboutyou.dart_packages.sign_in_with_apple" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android-gradle" name="Android-Gradle">
+      <configuration>
+        <option name="GRADLE_PROJECT_PATH" value=":sign_in_with_apple" />
+        <option name="LAST_SUCCESSFUL_SYNC_AGP_VERSION" />
+        <option name="LAST_KNOWN_AGP_VERSION" value="4.2.0" />
+      </configuration>
+    </facet>
+    <facet type="kotlin-language" name="Kotlin">
+      <configuration version="4" platform="JVM 1.8" allPlatforms="JVM [1.8]" useProjectSettings="false">
+        <compilerSettings>
+          <option name="additionalArguments" value="-Xallow-no-source-files" />
+        </compilerSettings>
+        <compilerArguments>
+          <option name="destination" value="$MODULE_DIR$/../../../../build/sign_in_with_apple/tmp/kotlin-classes/debug" />
+          <option name="classpath" value="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ba8e526c3d1939a551a253a14f7d689f/jetified-flutter_embedding_debug-1.0.0-d3ea636dc5d16b56819f3266241e1f708979c233.jar:/Users/dreamworld/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common-java8/2.2.0/cd3478503da69b1a7e0319bd2d1389943db9b364/lifecycle-common-java8-2.2.0.jar:/Users/dreamworld/.gradle/caches/transforms-2/files-2.1/07d7f6a5d1d12d4a42341dbf3390d466/browser-1.2.0-api.jar:/Users/dreamworld/.gradle/caches/transforms-2/files-2.1/7db260884447ce89060e50404faae8ec/fragment-1.1.0-api.jar:/Users/dreamworld/.gradle/caches/transforms-2/files-2.1/959371a3717a376d310bafe1586a33e7/viewpager-1.0.0-api.jar:/Users/dreamworld/.gradle/caches/transforms-2/files-2.1/5786432bd08fc7a3ae7e29749ed98710/loader-1.0.0-api.jar:/Users/dreamworld/.gradle/caches/transforms-2/files-2.1/b5f2ec3b281c2a8374e8b1f3c7e02b64/jetified-activity-1.0.0-api.jar:/Users/dreamworld/.gradle/caches/transforms-2/files-2.1/7d43dd654a5b9e0e75e327af710c63df/customview-1.0.0-api.jar:/Users/dreamworld/.gradle/caches/transforms-2/files-2.1/2b5bf1023fd2014e8e93807571fcc3d3/core-1.1.0-api.jar:/Users/dreamworld/.gradle/caches/transforms-2/files-2.1/a4530bc2097a54ac4918a3723991d5ee/lifecycle-runtime-2.2.0-api.jar:/Users/dreamworld/.gradle/caches/transforms-2/files-2.1/a79ade15c94d350a53036edb20046db0/jetified-savedstate-1.0.0-api.jar:/Users/dreamworld/.gradle/caches/transforms-2/files-2.1/7bc3146bcad36505f614f7540369600c/lifecycle-livedata-2.0.0-api.jar:/Users/dreamworld/.gradle/caches/transforms-2/files-2.1/d6a134e0079ad5edb9bc1076ef41332e/lifecycle-livedata-core-2.0.0-api.jar:/Users/dreamworld/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common/2.2.0/4ef09a745007778eef83b92f8f23987a8ea59496/lifecycle-common-2.2.0.jar:/Users/dreamworld/.gradle/caches/transforms-2/files-2.1/653b7e984be2ff6b5ed2034ee717b3f2/core-runtime-2.0.0-api.jar:/Users/dreamworld/.gradle/caches/modules-2/files-2.1/androidx.arch.core/core-common/2.1.0/b3152fc64428c9354344bd89848ecddc09b6f07e/core-common-2.1.0.jar:/Users/dreamworld/.gradle/caches/transforms-2/files-2.1/fe213281b538046373eeedd724194863/versionedparcelable-1.1.0-api.jar:/Users/dreamworld/.gradle/caches/modules-2/files-2.1/androidx.collection/collection/1.1.0/1f27220b47669781457de0d600849a5de0e89909/collection-1.1.0.jar:/Users/dreamworld/.gradle/caches/transforms-2/files-2.1/3be2d8aea5d67bb65a9fe0738e2d9f6e/lifecycle-viewmodel-2.1.0-api.jar:/Users/dreamworld/.gradle/caches/modules-2/files-2.1/androidx.annotation/annotation/1.1.0/e3a6fb2f40e3a3842e6b7472628ba4ce416ea4c8/annotation-1.1.0.jar:/Users/dreamworld/.gradle/caches/transforms-2/files-2.1/5767c32aa7dcb284bb463be66bd33a7a/jetified-kotlin-stdlib-jdk7-1.3.50.jar:/Users/dreamworld/.gradle/caches/transforms-2/files-2.1/5d12ad5997671630183da02bf50a66a6/jetified-kotlin-stdlib-1.3.50.jar:/Users/dreamworld/.gradle/caches/transforms-2/files-2.1/43a058b5df805202eb7b070e5da94d2c/jetified-kotlin-stdlib-common-1.3.50.jar:/Users/dreamworld/.gradle/caches/transforms-2/files-2.1/e672e75f0ed4168c4e67144a26cce353/jetified-annotations-13.0.jar:/Users/dreamworld/.gradle/caches/transforms-2/files-2.1/59e5f0873237979204dfc1dd91151dc6/jetified-listenablefuture-1.0.jar:/Users/dreamworld/Library/Android/sdk/platforms/android-28/android.jar:/Users/dreamworld/Library/Android/sdk/build-tools/30.0.2/core-lambda-stubs.jar" />
+          <option name="noStdlib" value="true" />
+          <option name="moduleName" value="sign_in_with_apple_debug" />
+          <option name="languageVersion" value="1.3" />
+          <option name="apiVersion" value="1.3" />
+          <option name="pluginOptions">
+            <array />
+          </option>
+          <option name="pluginClasspaths">
+            <array />
+          </option>
+          <option name="errors">
+            <ArgumentParseErrors />
+          </option>
+        </compilerArguments>
+      </configuration>
+    </facet>
+    <facet type="android" name="Android">
+      <configuration>
+        <option name="SELECTED_BUILD_VARIANT" value="debug" />
+        <option name="ASSEMBLE_TASK_NAME" value="assembleDebug" />
+        <option name="COMPILE_JAVA_TASK_NAME" value="compileDebugSources" />
+        <afterSyncTasks>
+          <task>generateDebugSources</task>
+        </afterSyncTasks>
+        <option name="ALLOW_USER_CONFIGURATION" value="false" />
+        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/src/main/AndroidManifest.xml" />
+        <option name="RES_FOLDER_RELATIVE_PATH" value="/src/main/res" />
+        <option name="RES_FOLDERS_RELATIVE_PATH" value="file://$USER_HOME$/Development /flutter 2.5.3/.pub-cache/hosted/pub.dartlang.org/sign_in_with_apple-3.3.0/android/src/main/res;file://$USER_HOME$/Development /flutter 2.5.3/.pub-cache/hosted/pub.dartlang.org/sign_in_with_apple-3.3.0/android/src/debug/res;file://$MODULE_DIR$/../../../../build/sign_in_with_apple/generated/res/rs/debug;file://$MODULE_DIR$/../../../../build/sign_in_with_apple/generated/res/resValues/debug" />
+        <option name="TEST_RES_FOLDERS_RELATIVE_PATH" value="file://$USER_HOME$/Development /flutter 2.5.3/.pub-cache/hosted/pub.dartlang.org/sign_in_with_apple-3.3.0/android/src/androidTest/res;file://$USER_HOME$/Development /flutter 2.5.3/.pub-cache/hosted/pub.dartlang.org/sign_in_with_apple-3.3.0/android/src/androidTestDebug/res;file://$MODULE_DIR$/../../../../build/sign_in_with_apple/generated/res/rs/androidTest/debug;file://$MODULE_DIR$/../../../../build/sign_in_with_apple/generated/res/resValues/androidTest/debug" />
+        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/src/main/assets" />
+        <option name="PROJECT_TYPE" value="1" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/../../../../build/sign_in_with_apple/intermediates/javac/debug/classes" />
+    <output-test url="file://$MODULE_DIR$/../../../../build/sign_in_with_apple/intermediates/javac/debugUnitTest/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../build/sign_in_with_apple/generated/aidl_source_output_dir/debug/out" />
+    <content url="file://$MODULE_DIR$/../../../../build/sign_in_with_apple/generated/aidl_source_output_dir/debugAndroidTest/out" />
+    <content url="file://$MODULE_DIR$/../../../../build/sign_in_with_apple/generated/ap_generated_sources/debug/out">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../build/sign_in_with_apple/generated/ap_generated_sources/debug/out" isTestSource="false" generated="true" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../build/sign_in_with_apple/generated/ap_generated_sources/debugAndroidTest/out" />
+    <content url="file://$MODULE_DIR$/../../../../build/sign_in_with_apple/generated/ap_generated_sources/debugUnitTest/out" />
+    <content url="file://$MODULE_DIR$/../../../../build/sign_in_with_apple/generated/renderscript_source_output_dir/debug/out" />
+    <content url="file://$MODULE_DIR$/../../../../build/sign_in_with_apple/generated/renderscript_source_output_dir/debugAndroidTest/out" />
+    <content url="file://$MODULE_DIR$/../../../../build/sign_in_with_apple/generated/res/resValues/androidTest/debug" />
+    <content url="file://$MODULE_DIR$/../../../../build/sign_in_with_apple/generated/res/resValues/debug">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../build/sign_in_with_apple/generated/res/resValues/debug" type="java-resource" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../build/sign_in_with_apple/generated/res/rs/androidTest/debug" />
+    <content url="file://$MODULE_DIR$/../../../../build/sign_in_with_apple/generated/res/rs/debug" />
+    <content url="file://$MODULE_DIR$/../../../../build/sign_in_with_apple/generated/source/buildConfig/androidTest/debug" />
+    <content url="file://$MODULE_DIR$/../../../../build/sign_in_with_apple/generated/source/buildConfig/debug">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../build/sign_in_with_apple/generated/source/buildConfig/debug" isTestSource="false" generated="true" />
+    </content>
+    <content url="file://$USER_HOME$/Development /flutter 2.5.3/.pub-cache/hosted/pub.dartlang.org/sign_in_with_apple-3.3.0/android">
+      <sourceFolder url="file://$USER_HOME$/Development /flutter 2.5.3/.pub-cache/hosted/pub.dartlang.org/sign_in_with_apple-3.3.0/android/src/main/kotlin" isTestSource="false" />
+      <excludeFolder url="file://$USER_HOME$/Development /flutter 2.5.3/.pub-cache/hosted/pub.dartlang.org/sign_in_with_apple-3.3.0/android/.gradle" />
+    </content>
+    <orderEntry type="jdk" jdkName="Android API 28 Platform" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Gradle: io.flutter:flutter_embedding_debug:1.0.0-d3ea636dc5d16b56819f3266241e1f708979c233" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-common-java8:2.2.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-common:2.2.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.arch.core:core-common:2.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.collection:collection:1.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.annotation:annotation:1.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.3.50" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.3.50" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.3.50" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains:annotations:13.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.guava:listenablefuture:1.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.browser:browser:1.2.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.fragment:fragment:1.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.viewpager:viewpager:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.loader:loader:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.activity:activity:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.customview:customview:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.core:core:1.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-runtime:2.2.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.savedstate:savedstate:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-livedata:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-livedata-core:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.arch.core:core-runtime:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.versionedparcelable:versionedparcelable:1.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-viewmodel:2.1.0@aar" level="project" />
+  </component>
+</module>
