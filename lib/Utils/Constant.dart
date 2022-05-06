@@ -96,8 +96,8 @@ class Login {
   }
 }
 
-const BASE_URL = 'http://137.184.217.246/chronoline/api';
-const imageUrl = 'http://137.184.217.246/chronoline/';
+const BASE_URL = '';
+const imageUrl = '';
 
 const loginapi = '$BASE_URL/login';
 const FORGOT = '$BASE_URL/forgot_password';
